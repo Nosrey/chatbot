@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^10.0.0",
+    "win-shortcut": "^1.0.3",
+    "windows-shortcuts": "^0.1.6"
+  }
+}
